@@ -7,6 +7,8 @@ public class TEST {
 		System.out.println("테스트용 하나더");
 		System.out.println("테스트11");System.out.println("테스트11");
 		System.out.println("테스트112232321");
+		System.out.println("테스트12312123232");
+		System.out.println("테스트1112123213");
 		
 		
 		
