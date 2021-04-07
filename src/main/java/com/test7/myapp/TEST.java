@@ -8,6 +8,13 @@ public class TEST {
 		System.out.println("테스트11");System.out.println("테스트11");
 		System.out.println("테스트112232321");
 		
+		System.out.println("테스트11");
+		System.out.println("테스트11");
+		System.out.println("테스트11");
+		System.out.println("테스트11");
+		System.out.println("테스트11");
+		
+		
 		
 		
 	}
