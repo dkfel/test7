@@ -8,6 +8,7 @@ public class test1
 		System.out.println();
 		System.out.println();
 		System.out.println();
+		System.out.println("식품화팅");
 	}
 
 }
