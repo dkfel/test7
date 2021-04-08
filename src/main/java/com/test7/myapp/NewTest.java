@@ -7,5 +7,7 @@ public class NewTest {
 			System.out.println("»±");
 			
 			System.out.println("²ó¿ì");
+			
+			System.out.println("»Ñ¿ì");
 	}
 }
