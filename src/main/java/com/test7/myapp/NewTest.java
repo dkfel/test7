@@ -5,5 +5,7 @@ public class NewTest {
 	public void static main(String[]
 			args) {
 			System.out.println("»±");
+			
+			System.out.println("½ÄÇ°");
 	}
 }
