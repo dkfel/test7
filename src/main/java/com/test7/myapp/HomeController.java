@@ -34,11 +34,7 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		System.out.println("霖己 test");
-		System.out.println("霖己 test2");
-		System.out.println("霖己 test3");
-		System.out.println("霖己 test4");
-		System.out.println("霖己 test0408");
-		System.out.println("霖己 test0408");
+		
 		System.out.println("霖己 JUN_FILE_TEST");
 		return "home";
 		
