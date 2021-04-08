@@ -6,6 +6,6 @@ public class NewTest {
 			args) {
 			System.out.println("»±");
 			
-			System.out.println("½ÄÇ°");
+			System.out.println("²ó¿ì");
 	}
 }
