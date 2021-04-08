@@ -37,6 +37,7 @@ public class HomeController {
 		System.out.println("霖己 test2");
 		System.out.println("霖己 test3");
 		System.out.println("霖己 test4");
+		System.out.println("霖己 test0408");
 		return "home";
 		
 		
