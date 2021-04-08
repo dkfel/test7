@@ -9,5 +9,7 @@ public class NewTest {
 			System.out.println("²ó¿ì");
 			
 			System.out.println("»Ñ¿ì");
+			
+			System.out.println("¹Ù²¸¶ó");
 	}
 }
