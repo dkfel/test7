@@ -11,7 +11,6 @@ public class test1
 		System.out.println("½ÄÇ°È­ÆÃ");
 		System.out.println("ÇÏÀ×");
 		System.out.println("¾Þ°£Ä¡ÇØ¶ó");
-		System.out.println("µÅ¶ó");
 	}
 
 }
